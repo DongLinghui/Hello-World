@@ -6,4 +6,4 @@ cx
 ---
 xka
 
-[陈潇]（www.chengxiao.com）
+[陈潇](www.chengxiao.com)
